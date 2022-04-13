@@ -1,1 +1,1 @@
-{"release":{"latest": {"version": "v0.5.2.6", "forceUpdate": true, "url": "https://github.com/hect0x7/bcu-ui/releases/download/v0.5.2.6/BCU.jar", "info":"1.丰富菜单栏。\n2.修复自定义字体的大小调度。\n3.实现图片记忆功能。"}}}
+{"release":{"latest": {"version": "v0.5.2.8", "forceUpdate": true, "url": "https://github.com/hect0x7/bcu-ui/releases/download/v0.5.2.8/BCU.jar", "info":"1.功能完全跟进原版05111。\n2.修复右击主题收藏/取消收藏功能的bug。\n3.优化代码。"}}}
