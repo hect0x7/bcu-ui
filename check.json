@@ -1,1 +1,1 @@
-{"release":{"latest": {"version": "v0.5.2.8", "forceUpdate": true, "url": "https://github.com/hect0x7/bcu-ui/releases/download/v0.5.2.8/BCU.jar", "info":"1.功能完全跟进原版05111。\n2.修复右击主题收藏/取消收藏功能的bug。\n3.优化代码。"}}}
+{"release":{"latest": {"version": "v0.5.3.4", "forceUpdate": false, "url": "https://github.com/hect0x7/bcu-ui/releases/download/v0.5.3.4/BCU.jar", "info":"1.扩展导入关卡功能\n2.跟进proc.json翻译"}}}
