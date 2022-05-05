@@ -1,1 +1,1 @@
-{"release":{"latest": {"version": "v0.5.3.5", "forceUpdate": false, "url": "https://github.com/hect0x7/bcu-ui/releases/download/v0.5.3.5/BCU.jar", "info":"This version bases on BCU-0-5-1-1-2, which is a regular version update and didn't update UI features."}}}
+{"release":{"latest": {"version": "v0.5.3.5", "forceUpdate": true, "url": "https://github.com/hect0x7/bcu-ui/releases/download/v0.5.3.5/BCU.jar", "info":"This version bases on BCU-0-5-1-1-2, which is a regular version update and didn't update UI features."}}}
